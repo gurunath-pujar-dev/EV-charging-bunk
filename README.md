@@ -1,8 +1,8 @@
 # EV-charging-bunk
 
-**e-fill**
 
-e-fill is a web app to find & locate the nearest EV Charging stations for registered users and also they can view the slots availability. It also helps the charging station owners to manage the status (like slots vacancy) of their bunk through online.
+
+EV-charging-bunk is a web app to find & locate the nearest EV Charging stations for registered users and also they can view the slots availability. It also helps the charging station owners to manage the status (like slots vacancy) of their bunk through online.
 
 **Built With**
 
