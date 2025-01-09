@@ -26,16 +26,15 @@ To host your own copy of project using Firebase, you must need
 
 ### Installation
 
-1. Fork [this] repositary.
-2. Clone your forked copy of the project to your local machine
+1. Clone your forked copy of the project to your local machine
    ```sh
    git clone https://github.com/<your-username>/e-Fill.git
    ```
-3. Navigate to the project directory
+2. Navigate to the project directory
    ```sh
    cd e-Fill
    ```
-5. Replace the 'firebaseConfig' in the "./Assets/JavaScript/fireBase/app.js" with your own Firebase configs
+3. Replace the 'firebaseConfig' in the "./Assets/JavaScript/fireBase/app.js" with your own Firebase configs
    ```js
    const firebaseConfig = {
         apiKey: "<api-key>",
