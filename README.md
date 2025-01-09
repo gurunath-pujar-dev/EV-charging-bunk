@@ -26,7 +26,7 @@ To host your own copy of project using Firebase, you must need
 
 ### Installation
 
-1. Fork [this] https://github.com/gaanamahendra/e-fill.git repositary.
+1. Fork [this] repositary.
 2. Clone your forked copy of the project to your local machine
    ```sh
    git clone https://github.com/<your-username>/e-Fill.git
